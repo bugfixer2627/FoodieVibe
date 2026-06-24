@@ -1,4 +1,3 @@
-````md
 # FoodieVibe 🍜🌏
 
 FoodieVibe is a community-driven web platform designed to connect people through food, recipes, and cultural storytelling.
