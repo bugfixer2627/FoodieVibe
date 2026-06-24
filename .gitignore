@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+*.pdf
+*.zip
+android/local.properties
+ios/**/xcuserdata/
+ios/**/UserInterfaceState.xcuserstate
+ios/**/.swiftpm/xcode/xcuserdata/
+Hackvibing-web/
+
+.spm-cache/
+
+# Claude Workinng Branches
+.claude
+_Context/
