@@ -236,5 +236,3 @@ Developed during the TikTok Ningbo Hackathon 2026.
 
 Special thanks to all teammates, mentors, judges, and participants who contributed feedback throughout the event.
 
-```
-```
