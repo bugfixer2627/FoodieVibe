@@ -8,7 +8,11 @@ Developed during the TikTok Ningbo Hackathon 2026, the platform encourages users
 
 ## 🏆 Achievement
 
-**TikTok Ningbo Hackathon 2026**
+**Douyin Ningbo Hackathon 2026**
+
+🏆 Most Popular Project Award (游园之星)
+
+**Douyin Chongqing Hackathon 2026** 
 
 🏆 Most Popular Project Award (游园之星)
 
